@@ -231,24 +231,6 @@ Gerador.ValidarPlacaMae := True;
 - Revogação de licenças
 - Sincronização em tempo real
 
-## 📁 Estrutura do Projeto
-
-```
-GeradorChaves/
-├── 📂 Source/
-│   ├── 📄 GeradorChaves.pas     # Classe principal
-│   ├── 📄 ValidadorChaves.pas   # Validação de licenças
-│   ├── 📄 CriptografiaUtils.pas # Utilitários de criptografia
-│   └── 📄 HardwareID.pas        # Identificação de hardware
-├── 📂 Forms/
-│   ├── 📄 MainForm.pas          # Interface principal
-│   └── 📄 ConfigForm.pas        # Configurações
-├── 📂 Resources/
-│   └── 📄 Icons.res             # Recursos visuais
-├── 📂 Examples/
-│   └── 📄 ExampleApp.dpr        # Aplicação exemplo
-└── 📄 GeradorChaves.dpr         # Projeto principal
-```
 
 ## 🤝 Contribuindo
 
