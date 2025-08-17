@@ -225,12 +225,6 @@ Gerador.ValidarPlacaMae := True;
 - Detecção de ativações suspeitas
 - Exportação de relatórios
 
-### 🌐 Integração Online
-- Validação via servidor
-- Ativação remota
-- Revogação de licenças
-- Sincronização em tempo real
-
 
 ## 🤝 Contribuindo
 
