@@ -284,11 +284,6 @@ Precisa de ajuda? Entre em contato:
 - 📋 Issues: [GitHub Issues](https://github.com/linces/GeradorChaves/issues)
 - 📚 Wiki: [Documentação completa](https://github.com/linces/GeradorChaves/wiki)
 
-## 👨‍💻 Autor
-
-**Linces Marques**
-- GitHub: [@linces](https://github.com/linces)
-- Especialista em: Delphi | C# | Dart/Flutter | Python | Oracle | Firebird | MySQL | Firebase | AWS
 
 ## 📄 Licença
 
